@@ -4,7 +4,7 @@ Get current weather data with OpenWeatherAPI using your location or enter a city
 
 ***App Demo***
 
-<img src="Demo/Demo.gif" width="300">
+<img src="Demo/demo.gif" width="300">
 
 
 *Reference*
